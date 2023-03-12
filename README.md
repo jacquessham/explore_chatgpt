@@ -11,10 +11,10 @@ Before started, you may find the instruction to install all necessary dependence
 deactivate
 ```
 <br>
-You may find <i>load_token.py</i> to help setup the OpenAI token. You may save a file named <i>openai_token.json</i> in your local Desktop. You may find the instruction in the <i>Loading OpenAI Token</i> section under [Setup folder](/setup).
+You may find <i>load_token.py</i> to help setup the OpenAI token. You may save a file named <i>openai_token.json</i> in your local Desktop. You may find the instruction in the <i>Loading OpenAI Token</i> section under Setup folder.
 
 ## Quick Start
 Coming soon...
 
 ## Chat Completion
-Coming soon...
+Chat completion is a feature to have chatbot model to return a answer from an input question. You may find more details in the [Chat Completion folder](/chat_completion).

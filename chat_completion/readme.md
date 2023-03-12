@@ -29,6 +29,7 @@ Quoting from the documentation:
 <i>Including the conversation history helps when user instructions refer to prior messages. In the example above, the user’s final question of "Where was it played?" only makes sense in the context of the prior messages about the World Series of 2020. Because the models have no memory of past requests, all relevant information must be supplied via the conversation. If a conversation cannot fit within the model’s token limit, it will need to be shortened in some way.</i> 
 <br><br>
 You may run the example in <i>chat_completion_example.py</i>, the output of the example is:
+
 ```
 {
   "choices": [
