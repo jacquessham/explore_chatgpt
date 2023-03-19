@@ -1,0 +1,23 @@
+This API failed
+This API failed
+This API failed
+This API failed
+The winner of the FORMULA 1 GRAND PRIX DE MONACO 2021 was Max Verstappen.
+The winner of the FORMULA 1 AZERBAIJAN GRAND PRIX 2021 was Sergio Perez.
+The winner of the FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 was Max Verstappen.
+The winner of the FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 was Max Verstappen.
+The winner of the FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 was Max Verstappen.
+The winner of the FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021 was Lewis Hamilton.
+The winner of the FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 was Esteban Ocon.
+The FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 was cancelled due to inclement weather conditions.
+The winner of the FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 was Max Verstappen.
+The winner of the FORMULA 1 HEINEKEN GRAN PREMIO D'ITALIA 2021 was Daniel Ricciardo.
+The winner of the FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 was Lando Norris.
+This API failed
+The winner of the FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 was Max Verstappen.
+The winner of the FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 was Max Verstappen.
+I'm sorry but there wasn't any FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO held in 2021. The Formula 1 calendar for the 2021 season did not include a race in Brazil.
+The FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 is scheduled to be held on December 5, 2021. Therefore, at the time of this response, the race results are not yet available.
+The FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 is scheduled to be held on December 12, 2021. Therefore, at the time of this response, the race results are not yet available.
+The FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 is scheduled to be held on December 12, 2021. Therefore, at the time of this response, the race results are not yet available.
+The F1 World Championship 2021 hasn't been concluded yet. As of now, there are two races remaining in the season, namely the FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 and the FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021. The champion will be determined at the end of the season based on the driver who has accumulated the most points throughout the year.

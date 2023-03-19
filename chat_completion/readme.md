@@ -58,3 +58,7 @@ You may run the example in <i>chat_completion_example.py</i>, the output of the 
 You may find <i>who_wonf1_2021.py</i> to ask OpenAI model who won the F1 world championship.
 <br><br>
 Surprisingly, everytime the script runs, it produces different answers. Some of the answers are not wrong, but rather outdated. Namely, the answers I received are about 80-90% of times telling me that 2021 F1 season was not over yet, while only the rest told me it was Max Verstappen, who is the 2021 champion.
+<br><br>
+If we have a conversation to go over the winner for each Grand Prix, the accuracy increase significantly.
+<br><br>
+More detail coming soon...

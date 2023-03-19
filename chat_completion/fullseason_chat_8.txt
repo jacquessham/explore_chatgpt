@@ -1,0 +1,23 @@
+The winner of the FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021 was Lewis Hamilton from Mercedes team.
+The winner of the FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL’EMILIA ROMAGNA 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 was Lewis Hamilton from Mercedes team.
+The winner of the FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 was Lewis Hamilton from Mercedes team.
+The winner of the FORMULA 1 GRAND PRIX DE MONACO 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 AZERBAIJAN GRAND PRIX 2021 was Sergio Perez from Red Bull Racing team.
+The winner of the FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021 was Lewis Hamilton from Mercedes team.
+This API failed
+The FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 was canceled due to severe weather conditions, so there was no winner.
+The winner of the FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 was Max Verstappen from Red Bull Racing team.
+The winner of the FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021 was Daniel Ricciardo from McLaren team.
+The winner of the FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 was Lewis Hamilton from Mercedes team.
+The FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 is scheduled for October 8-10, 2021. Therefore, the winner is yet to be determined.
+The FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 is scheduled for October 22-24, 2021. Therefore, the winner is yet to be determined.
+The FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 is scheduled for October 29-31, 2021. Therefore, the winner is yet to be determined.
+The FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021 was canceled due to Covid-19 related issues, and the race did not take place.
+The FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 is scheduled for November 19-21, 2021. Therefore, the winner is yet to be determined.
+The FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 is scheduled for December 3-5, 2021. Therefore, the winner is yet to be determined.
+The FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 is scheduled for December 10-12, 2021. Therefore, the winner is yet to be determined.
+The F1 world championship of 2021 has not yet been concluded. The championship will be determined by the number of points that each driver accumulates throughout the season. The driver with the most points at the end of the final race of the season will be crowned the F1 world champion in 2021. The season is set to conclude on December 12, 2021, at the Abu Dhabi Grand Prix.

@@ -1,0 +1,23 @@
+The FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021 was won by Lewis Hamilton of Mercedes on March 28, 2021.
+The FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL’EMILIA ROMAGNA 2021 was won by Max Verstappen of Red Bull Racing on April 18, 2021.
+The FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 was won by Lewis Hamilton of Mercedes on May 2, 2021.
+The FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 was won by Lewis Hamilton of Mercedes on May 9, 2021.
+This API failed
+The FORMULA 1 AZERBAIJAN GRAND PRIX 2021 was won by Sergio Perez of Red Bull Racing on June 6, 2021.
+The FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 was won by Max Verstappen of Red Bull Racing on June 20, 2021.
+The FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 was won by Max Verstappen of Red Bull Racing on June 27, 2021.
+The FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 was won by Max Verstappen of Red Bull Racing on July 4, 2021.
+The FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021 was won by Lewis Hamilton of Mercedes on July 18, 2021.
+The FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 was won by Esteban Ocon of Alpine on August 1, 2021.
+The FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 was cancelled due to heavy rain and poor weather conditions on August 29, 2021. No winner was declared.
+The FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 was won by Max Verstappen of Red Bull Racing on September 5, 2021.
+The FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021 was won by Daniel Ricciardo of McLaren on September 12, 2021.
+The FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 was won by Lewis Hamilton of Mercedes on September 26, 2021.
+The FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 will be held on October 10, 2021, and the winner is not yet determined.
+The FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 is scheduled to be held on October 24, 2021, and the winner is not yet determined.
+The FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 is scheduled to be held on November 7, 2021, and the winner is not yet determined.
+The FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021 has been cancelled due to the ongoing COVID-19 pandemic. No race or winner will take place.
+The FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 is scheduled to be held on December 5, 2021, and the winner is not yet determined.
+The FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 is scheduled to be held on December 12, 2021, and the winner is not yet determined.
+The FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 is scheduled to be held on December 12, 2021, and the winner is not yet determined.
+The F1 world champion in 2021 has not been determined yet as the season is ongoing and several races are yet to be held.

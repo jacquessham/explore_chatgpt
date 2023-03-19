@@ -1,0 +1,23 @@
+Lewis Hamilton won the Formula 1 Gulf Air Bahrain Grand Prix in 2021.
+Max Verstappen won the Formula 1 Pirelli Gran Premio del Made in Italy e dell'Emilia Romagna in 2021.
+The winner of the FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 was Lewis Hamilton.
+The winner of the FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 was Lewis Hamilton.
+The winner of the FORMULA 1 GRAND PRIX DE MONACO 2021 was Max Verstappen.
+The winner of the FORMULA 1 AZERBAIJAN GRAND PRIX 2021 was Sergio Perez.
+The winner of the FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 was Max Verstappen.
+This API failed
+The winner of the FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 was Max Verstappen.
+The winner of the FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021 was Lewis Hamilton.
+The winner of the FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 was Esteban Ocon.
+The FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 was cancelled due to bad weather conditions.
+The winner of the FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 was Max Verstappen.
+The winner of the FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021 was Daniel Ricciardo.
+The winner of the FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 was Max Verstappen.
+The FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 has not been held yet. It is scheduled to take place on October 10, 2021.
+The FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 has not been held yet. It is scheduled to take place on October 24, 2021.
+The FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 has not been held yet. It is scheduled to take place on October 31, 2021.
+The FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021 has not been held yet. The race was scheduled to take place on November 7, 2021, but it has been cancelled due to logistical and financial issues.
+The FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 has not been held yet. It is scheduled to take place on November 21, 2021.
+The FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 has not been held yet. It is scheduled to take place on December 5, 2021.
+The FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 has not been held yet. It is scheduled to take place on December 12, 2021.
+The F1 World Champion for 2021 has not been crowned yet. The season is still ongoing and the winner will be determined after the final race of the season, which is the FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 on December 12, 2021.
